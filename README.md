@@ -1,11 +1,11 @@
-# Hey there! I'm [Your Name] 👋  
+# Hey there! I'm Isaac 👋  
 
 ### 🚀 Web Developer | 🤖 IoT Tinkerer | 📈 Algorithmic Trading Enthusiast  
 
 ---
 
 ## 🌟 A Little About Me  
-Hi! I’m Isaac Muigai, a curious and creative **Web Developer** who loves building web apps that solve real problems.  
+I’m  a curious and creative **Web Developer** who loves building web apps that solve real problems.  
 I’ve also got a soft spot for **IoT projects**—give me an Arduino, and I’ll create something cool (or at least interesting).  
 And when I’m not coding websites or tinkering with gadgets, you’ll find me diving into **algorithmic trading**, using Python and MT5 to create trading bots that (hopefully) beat the markets.  
 
