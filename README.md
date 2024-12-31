@@ -28,21 +28,6 @@ I enjoy blending technology and creativity to build amazing things. Here’s my 
 ### Algorithmic Trading  
 - **Tools**: MetaTrader 5 (MT5), Python  
 - **Focus**: Writing bots, backtesting strategies, and using machine learning to filter signals.  
-
----
-
-## 🏆 What I’m Proud Of  
-- 🚀 Built a trading bot that executes strategies based on support and resistance levels.  
-- 🤖 Developed IoT systems to make life easier and smarter (think home automation and flood monitoring).  
-- 🌐 Created modern, responsive web apps that users actually enjoy.  
-
----
-
-## 💡 What I’m Exploring Right Now  
-- 🌐 How to make React apps faster and smoother.  
-- 📈 Using AI to predict financial market trends.  
-- ⚡ Making IoT devices smarter with AI.  
-
 ---
 
 ## 📚 My Favorite Projects  
