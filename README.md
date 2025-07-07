@@ -22,9 +22,15 @@ I specialize in full-stack web development, AI integration, and embedded systems
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
+Autonomous Robotic Arm
+Real-time object sorting using YOLOv8, ESP32-CAM, PCA9685, and Node.js WebSockets for live control.
 
-- **Autonomous Robotic Arm:** Real-time sorting using YOLOv8 + ESP32 + Node.js  
-- **Smart Traffic System:** Live traffic rerouting with AI and camera feeds  
+Piezoelectric Power Generation System
+A road-simulation energy harvesting system using piezo discs, a rectifier, and real-time monitoring.
+
+Smart Traffic Vision System
+AI-based traffic monitoring and rerouting using YOLOv8 inference with live camera feeds and FastAPI backend.
+
 
 > “I build systems that think, see, and act — in real time.”
